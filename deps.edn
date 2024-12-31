@@ -2,4 +2,4 @@
  :deps {io.github.nextjournal/clerk {:mvn/version "0.17.1102"}}
  :aliases
  {:nextjournal/garden {:exec-fn nextjournal.clerk/serve!
-                       :exec-args {:index "notebooks/hello.clj"}}}}
+                       :exec-args {}}}}
