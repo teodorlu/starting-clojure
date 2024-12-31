@@ -28,7 +28,7 @@ Eric Normand frames this in a nice way on his newsletter:
 
 I believe this also applies to gettings started with Clojure programmering in general.
 
-### Approach: collect, then synthesize
+### Approach: collect experiences and resources, then synthesize
 
 Use this repo as a ground for collection and synthesis.
 Zero treshold to add stuff, then synthesize later.
