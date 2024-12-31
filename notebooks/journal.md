@@ -1,3 +1,8 @@
+```
+^{:nextjournal.clerk/visibility {:code :hide :result :hide}}
+(ns journal {:nextjournal.clerk/toc true})
+```
+
 # Starting Clojure - Journal
 
 ## 2024-12-31
