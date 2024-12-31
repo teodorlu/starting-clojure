@@ -57,7 +57,7 @@ Online communities tend to rely on interpersonal relationships, and writing for 
 
 Here are some people whose perspectives I'd like to get:
 
-0. Mitesh Shah - rewatch his Heart of Clojure presentation and come up with some questions.
+0. Mitesh Shah - rewatch *Beyond the Hype: Obstacles on the Path to Clojure Adoption* from  Heart of Clojure and come up with some questions.
    https://2024.heartofclojure.eu/talks/beyond-the-hype-obstacles-on-the-path-to-clojure-adoption/
 1. Mathias - how was the getting started experience?
 2. Sigmund - when did he get started, and how?
