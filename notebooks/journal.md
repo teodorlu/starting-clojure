@@ -86,3 +86,16 @@ Here are some people whose perspectives I'd like to get:
 - Collect resources and lessons here - in the form of markdown or Clerk notebooks.
 
 - Talk to people about the getting started experience, write down summaries or record.
+
+## 2025-01-02
+### Deploying this site - problems and propositions
+
+Today, one person changing the current page will cause other people to also change the current page.
+That's quite bad!
+No peace, no quiet.
+
+Separation between users would be a nice feature, but maybe it's not needed, and maybe it's not desired.
+How about this instead:
+
+1. Aim to merge everything into a single page, a single book
+2. Use and abuse the table of contents liberally, consider loading the one file to rule them all from other files on disk (like the LaTeX trick)
