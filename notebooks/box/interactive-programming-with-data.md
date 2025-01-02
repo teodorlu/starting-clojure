@@ -1,6 +1,6 @@
 # interactive programming with data
 
-I'm going to talk about what I love about Clojure 😁
+I'm going to talk about why I love Clojure 😁
 
 And what I love about Clojure is **interactive programming with data**.
 
