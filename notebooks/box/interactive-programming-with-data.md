@@ -1,4 +1,4 @@
-# Interactive programming with data
+# interactive programming with data
 
 I'm going to talk about what I love about Clojure 😁
 
@@ -16,7 +16,7 @@ And what I love about Clojure is **interactive programming with data**.
 ... and this is an absolutely lovely experience.
 But why?
 
-## Interactive programming enables instant feedback
+## interactive programming enables instant feedback
 
 Because my program never restarts, how I structure my feedback loop is up to me.
 I'm aiming for instant.
